@@ -1,8 +1,6 @@
-# myrepo1
 
-I now try to learn using github from RStudio
 
-## My first code on Git
+##Randomly assign students to organisation
 in academic research,researchers working with causal inference would wish to assign students/units randomly to organisations to examine the effect of internship training on absorption into the job world. In cases when the study is to be done following conventional RCT, assigning the students to organisation and/or randomly giving organisations students can be daunting activity to many.
 
 This R  code has been prepared to put this off the researcher's shoulders. It enable researchers in academic institutions to assign students to institutions for internship placements
